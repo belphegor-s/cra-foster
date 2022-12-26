@@ -1,0 +1,17 @@
+{
+	"name": "cra-foster",
+	"version": "1.0.0",
+	"description": "A CLI tool to create a react app - better, faster and cleaner then CRA",
+	"main": "index.js",
+	"keywords": [
+		"CRA",
+		"React App",
+		"Create React App"
+	],
+	"author": "Ayush Sharma<ayush2162020@gmail.com>",
+	"license": "MIT",
+	"bin": "./index.js",
+	"dependencies": {
+		"fs-extra": "^11.1.0"
+	}
+}
